@@ -1,0 +1,11 @@
+{
+  "name": "blockly-node-red",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "denis jovic",
+  "license": "MIT",
+  "dependencies": {
+    "node-red": "^3.0.2",
+    "node-red-contrib-blockly": "^2.0.1"
+  }
+}
